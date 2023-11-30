@@ -2,4 +2,5 @@
 
 ## Description
 
+The data includes the information of the closing prices of stocks
 ## Missing value analysis
