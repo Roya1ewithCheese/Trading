@@ -2,22 +2,15 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "YOUR PROJECT TITLE",
+    "title": "Trading",
     "section": "",
-    "text": "1 Introduction"
+    "text": "1 Introduction\nThis project is about trading"
   },
   {
     "objectID": "data.html#description",
     "href": "data.html#description",
     "title": "2  Data",
     "section": "2.1 Description",
-    "text": "2.1 Description"
-  },
-  {
-    "objectID": "data.html#missing-value-analysis",
-    "href": "data.html#missing-value-analysis",
-    "title": "2  Data",
-    "section": "2.2 Missing value analysis",
-    "text": "2.2 Missing value analysis"
+    "text": "2.1 Description\nThe data includes the information of the closing prices of stocks ## Missing value analysis"
   }
 ]
